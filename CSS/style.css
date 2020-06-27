@@ -28,6 +28,12 @@
   -webkit-animation-duration: 1.7s;
           animation-duration: 1.7s;
 }
+.description-btn-splash {
+  -webkit-animation-name: splash;
+          animation-name: splash;
+  -webkit-animation-duration: 1.7s;
+          animation-duration: 1.7s;
+}
 @-webkit-keyframes splash {
   from {
     box-shadow: 0 0 10px #c78030;
